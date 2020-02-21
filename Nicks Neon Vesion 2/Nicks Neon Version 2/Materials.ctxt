@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Materials
+comment0.text=\r\n\ This\ program\ allows\ the\ user\ to\ enter\ specified\ information\r\n\ about\ an\ object\ and\ it\ will\ calculate\ the\ outside\ dimension\r\n\ add\ up\ the\ total\ length\ of\ material\ needed\r\n\ @author\ (Thomas\ J.\ Short)\r\n\ @version\ (2/3/2020)\r\n\ @course\ (CIS\ 261)\r\n\ @semester\ (winter\ 2020)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
